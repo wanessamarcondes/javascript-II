@@ -80,9 +80,3 @@ inputArea.addEventListener("change", function(){
         document.querySelector("body").style.backgroundColor = "#ffecb3"
     }
 })
-
-inputEmailConfirm.addEventListener("paste",function(event){
-    event.preventDefault();
-    return false;
-})
-

@@ -14,5 +14,3 @@ for (let i = 0; i < links.children.length; i++){
         figcaption.innerHTML = text;
     })
 }
-
-
